@@ -1,2 +1,2 @@
-# webInfo2
+# RepositorioInfo2
 Escola
