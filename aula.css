@@ -1,0 +1,58 @@
+#banner{
+   width: 40%;
+   height: auto;
+   border: 2px solid #0000ff;
+}
+.caixa{
+   position: relative;
+   width: 940px;
+   right: 0 auto;
+
+}
+header{
+   background: #CCCCCC;
+   border: 2px solid #ff0000;
+}
+h1{
+   text-align: center;
+}
+
+nav li{
+   display: inline;
+   margin: 0 0 0 15px; /*espasçamento*/
+   text-align: left;
+
+}
+nav a{
+   text-transform: uppercase;
+   font-weight: bold;
+   font-size: 12px;
+   text-decoration: none;
+
+
+}
+nav{
+   position: absolute;
+   top: 110px;
+   right: 0;
+   
+}
+#banner1{
+   width: 300px;
+   height: 220px
+}
+#banner2{
+   width: 300px;
+   height: 220px;
+}
+#banner3{
+   width: 200px;
+   height: 220px
+}
+.produto li{
+   display: inline-block;
+   border: 2px solid #00ff00
+}
+.manual{
+   text-align: right;
+}
