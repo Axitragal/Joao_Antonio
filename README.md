@@ -1,2 +1,2 @@
 # RepositorioInfo2
-Escola
+João A.
