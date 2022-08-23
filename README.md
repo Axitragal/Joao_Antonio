@@ -1,2 +1,1 @@
-# RepositorioInfo2
-João A.
+# Joao_A
